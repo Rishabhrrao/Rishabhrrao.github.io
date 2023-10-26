@@ -235,7 +235,7 @@ body {
     color: #5f687b;
     font-size: 28px;
     cursor: pointer;
-    display: none;
+    display: inline-block;
     line-height: 0;
     transition: 0.5s;
   }
